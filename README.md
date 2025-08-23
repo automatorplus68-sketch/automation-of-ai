@@ -25,8 +25,7 @@ You can connect it with APIs like OpenAI, even automate browser-based tools via 
 
 > *(Add your screenshot in `capture.png`)*
 
-![App Screenshot](captue.png)
-
+Capture.PNG
 ---
 
 ## ✨ Features
