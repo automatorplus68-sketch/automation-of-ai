@@ -1,39 +1,58 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+name: AI Automation Desktop App
+description: >
+  A Python desktop application for Windows that automates AI tasks using a lightweight Tkinter GUI.
+  It is used to perform tasks like text generation, summarization, and more.
 
-name: Python application
+version: 1.0.0
+license: MIT
 
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+author:
+  name: automatorplus68-sketch
+  github: https://github.com/automatorplus68-sketch
+  contact: https://github.com/automatorplus68-sketch/automation-of-ai/issues
 
-permissions:
-  contents: read
+platform: Windows
+python_version: ">=3.8"
+gui_framework: Tkinter
 
-jobs:
-  build:
+features:
+  - Native Windows GUI with Tkinter
+  - Text and image AI automation
+  - Supports OpenAI and local AI models
+  - Output saving (text, HTML)
+  - API key management (optional)
+  - Easily extendable modules
+  - Optional Selenium integration
 
-    runs-on: ubuntu-latest
+dependencies:
+  - requests
+  - undetected_chromedriver
+  - pywinauto
+  - pillow
+  - tk  # built-in in Python
+  - selenium  # optional, if automating browser-based AI tools
 
-    steps:
-    - uses: actions/checkout@v4
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install flake8 pytest
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Lint with flake8
-      run: |
-        # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    - name: Test with pytest
-      run: |
-        pytest
+project_structure:
+  - aiprompt.py: Entry point with the GUI
+  - requirements.txt: Dependency list
+  - README.md: Documentation
+
+usage:
+  clone: git clone https://github.com/automatorplus68-sketch/automation-of-ai.git
+  install_deps: pip install -r requirements.txt
+  run: python aiprompt.py
+  build_exe: pyinstaller --noconfirm --onefile --icon="appicon.ico" --windowed aiprompt.py
+
+screenshot: assets/screenshot.png
+
+tags:
+  - tkinter
+  - desktop
+  - python
+  - ai
+  - automation
+  - gui
+  - windows
+
+license_file: LICENSE
+readme_file: README.md
