@@ -3,7 +3,7 @@
 **A Python desktop application for Windows that automates AI tasks through a simple and responsive Tkinter-based GUI.**
 
 ![Repo Size](https://img.shields.io/github/repo-size/[automatorplus68-sketch]/[automation-of-ai])
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![License](https://img.shields.io/github/license/[automatorplus68-sketch]/[automation-of-ai])
 
