@@ -69,7 +69,7 @@ To create a standalone .exe for Windows:
 bash
 Copy code
 pip install pyinstaller
-pyinstaller --noconfirm --onefile --windowed aiprompt.py
+pyinstaller --noconfirm --onefile --windowed --icon="appicon.ico" aiprompt.py
 Output will be generated in the dist/ folder.
 
 🧪 Example Use Cases
