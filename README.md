@@ -103,4 +103,4 @@ Tkinter Docs
 Python Community
 
 🤝 Contributing
-Feel free to fork the repo and submit a pull request. For bugs or feature suggestions, open an issue.
+Feel free to fork the repo and submit a pull request. For bugs or feature suggestions, open an issue and if you had any ideas of automation please share with me.
