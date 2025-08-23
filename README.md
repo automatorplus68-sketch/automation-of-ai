@@ -5,7 +5,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/[automatorplus68-sketch]/[automation-of-ai])
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
-![License](https://img.shields.io/github/license/[your-username]/[repo-name])
+![License](https://img.shields.io/github/license/[automatorplus68-sketch]/[automation-of-ai])
 
 ---
 
