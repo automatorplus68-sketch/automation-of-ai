@@ -25,7 +25,7 @@ You can connect it with APIs like OpenAI, Hugging Face, or even automate browser
 
 > *(Add your screenshot in `capture.png`)*
 
-![App Screenshot](captue.png)
+![App Screenshot](captue.PNG)
 
 ---
 
