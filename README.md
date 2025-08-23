@@ -15,9 +15,9 @@ This app uses **Python + Tkinter** to provide a lightweight desktop interface fo
 
 - Sending prompts to AI models
 - Extracting and saving results
-- Automating workflows (e.g., summarize text, generate images, translate)
+- Automating workflows (e.g., summarize text)
 
-You can connect it with APIs like OpenAI, Hugging Face, or even automate browser-based tools via Selenium (optional).
+You can connect it with APIs like OpenAI, even automate browser-based tools via Selenium (optional).
 
 ---
 
@@ -25,7 +25,7 @@ You can connect it with APIs like OpenAI, Hugging Face, or even automate browser
 
 > *(Add your screenshot in `capture.png`)*
 
-![App Screenshot](captue.PNG)
+![App Screenshot](captue.png)
 
 ---
 
