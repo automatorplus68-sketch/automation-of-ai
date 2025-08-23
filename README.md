@@ -61,12 +61,8 @@ python main.py
 bash
 Copy code
 📦 [automation-of-ai]
-├── main.py                # Entry point with GUI
-├── ai_modules/
-│   ├── gpt_tasks.py       # API automation logic
-│   ├── summarizer.py
-├── assets/
-│   └── screenshot.png     # UI screenshot
+├── aiprompt.py                # Entry point with GUI
+├── screenshot.png     # UI screenshot
 ├── requirements.txt
 └── README.md
 🔧 Build Executable (Optional)
