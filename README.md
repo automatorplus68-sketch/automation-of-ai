@@ -24,8 +24,7 @@ You can connect it with APIs like OpenAI, even automate browser-based tools via 
 ## 🖼️ Screenshot
 
 > *(Add your screenshot in `capture.png`)*
-
-Capture.PNG
+[App Screenshot](Capture.PNG)
 ---
 
 ## ✨ Features
@@ -61,7 +60,7 @@ bash
 Copy code
 📦 [automation-of-ai]
 ├── aiprompt.py                # Entry point with GUI
-├── screenshot.png     # UI screenshot
+├── Capture.PNG     # UI screenshot
 ├── requirements.txt
 └── README.md
 🔧 Build Executable (Optional)
@@ -70,7 +69,7 @@ To create a standalone .exe for Windows:
 bash
 Copy code
 pip install pyinstaller
-pyinstaller --noconfirm --onefile --windowed main.py
+pyinstaller --noconfirm --onefile --windowed aiprompt.py
 Output will be generated in the dist/ folder.
 
 🧪 Example Use Cases
@@ -85,9 +84,11 @@ Example requirements.txt:
 
 txt
 Copy code
+undetected_chromedriver
 selenium
 requests
 pillow
+pywinauto
 tk  # built-in, but included for completeness
 Generate your full list: pip freeze > requirements.txt
 
