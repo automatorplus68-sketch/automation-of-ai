@@ -23,9 +23,9 @@ You can connect it with APIs like OpenAI, Hugging Face, or even automate browser
 
 ## 🖼️ Screenshot
 
-> *(Add your screenshot in `assets/screenshot.png`)*
+> *(Add your screenshot in `capture.png`)*
 
-![App Screenshot](screenshot.png)
+![App Screenshot](captue.png)
 
 ---
 
