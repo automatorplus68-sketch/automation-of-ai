@@ -44,7 +44,7 @@ You can connect it with APIs like OpenAI, even automate browser-based tools via 
 - Windows 10 or 11
 - Python 3.8 or newer
 - `pip` installed
-
+- new version of google chrome
 ### Clone & Install
 
 ```bash
