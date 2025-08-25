@@ -104,3 +104,4 @@ Python Community
 
 🤝 Contributing
 Feel free to fork the repo and submit a pull request. For bugs or feature suggestions, open an issue and if you had any ideas of automation please share with me.
+if you want this desktop app visit my repository
