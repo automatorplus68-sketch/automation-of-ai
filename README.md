@@ -45,7 +45,7 @@ You can connect it with APIs like OpenAI, even automate browser-based tools via 
 - Python 3.8 or newer
 - `pip` installed
 - new version of google chrome
-### Clone & Install
+### Clone & create app by yourself
 
 ```bash
 git clone https://github.com/automatorplus68-sketch/automation-of-ai.git
