@@ -48,7 +48,7 @@ You can connect it with APIs like OpenAI, even automate browser-based tools via 
 ### Clone & Install
 
 ```bash
-git clone https://github.com/[automatorplus68-sketch]/[automation-of-ai].git
+git clone https://github.com/automatorplus68-sketch/automation-of-ai.git
 cd [repo-name]
 pip install -r requirements.txt
 Run the App
