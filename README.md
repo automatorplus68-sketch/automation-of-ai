@@ -49,7 +49,7 @@ You can connect it with APIs like OpenAI, even automate browser-based tools via 
 
 ```bash
 git clone https://github.com/automatorplus68-sketch/automation-of-ai.git
-cd [repo-name]
+cd automation-of-ai
 pip install -r requirements.txt
 Run the App
 bash
