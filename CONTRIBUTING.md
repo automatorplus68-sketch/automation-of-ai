@@ -119,4 +119,4 @@ Slack/Discord: Coming soon!
 
 Email: animatorplus68@gmail.com
 
-Thank you for helping us build a better way to automate AI workflows! 🙌
+Thank you for helping us build a better way to automation workflows! 🙌
