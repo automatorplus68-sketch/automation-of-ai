@@ -56,3 +56,16 @@ tags:
 
 license_file: LICENSE
 readme_file: README.md
+
+---
+
+## 📎 Related Issues / Tickets
+
+Fixes #[issue-number]  
+Related to #[issue-number]
+
+---
+
+## 🗒️ Notes for Reviewers
+
+Any special considerations, questions, or blockers you'd like feedback on.
