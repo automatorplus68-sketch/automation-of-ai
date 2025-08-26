@@ -1,4 +1,5 @@
 # 🤖 AI Automation Desktop App (Tkinter GUI)
+<meta name="google-site-verification" content="ie5JFJaZb89TRxLpotUd0OkPuTBiDxeIahRas2emAOU" />
 
 **A Python desktop application for Windows that automates AI tasks through a simple and responsive Tkinter-based GUI.**
 
