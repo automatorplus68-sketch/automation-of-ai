@@ -1,0 +1,65 @@
+## 🧠 Overview
+
+Describe the purpose of this PR and what it changes in the AI automation workflow.
+
+- What part of the AI system is affected (e.g., training, inference, data pipeline)?
+- Is this introducing a new model, feature, or fix?
+
+---
+
+## 🔄 Type of Change
+
+Select all that apply:
+
+- [ ] Model training / tuning
+- [ ] Data preprocessing / feature engineering
+- [ ] Inference pipeline update
+- [ ] Evaluation / metrics
+- [ ] API / integration changes
+- [ ] Automation script / job
+- [ ] Infrastructure / deployment
+- [ ] Documentation
+- [ ] Other (please specify):
+
+---
+
+## ✅ Checklist
+
+- [ ] Code has been tested (unit/integration/end-to-end)
+- [ ] Model performance was evaluated (if applicable)
+- [ ] All required dependencies are updated in `requirements.txt` or equivalent
+- [ ] Documentation is updated (code comments, README, notebooks)
+- [ ] No hard-coded paths, secrets, or sensitive info
+- [ ] CI/CD workflows pass
+- [ ] Related issues linked or mentioned
+
+---
+
+## 📊 Model / Pipeline Metrics (if applicable)
+
+| Metric         | Value         |
+|----------------|---------------|
+| Accuracy       |               |
+| Precision      |               |
+| Recall         |               |
+| F1 Score       |               |
+| Inference Time |               |
+
+> Add more rows or change metrics depending on your project.
+
+---
+
+## 🧪 Testing
+
+- [ ] Added/updated tests
+- [ ] Ran notebook/script on sample data
+- [ ] Verified results match expectations
+
+Briefly describe how you tested the change:
+
+---
+
+## 📁 Related Files
+
+List of key files or modules affected:
+
