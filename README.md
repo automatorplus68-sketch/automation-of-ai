@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="ie5JFJaZb89TRxLpotUd0OkPuTBiDxeIahRas2emAOU" />
 
 # 🤖 AI Automation Desktop App (Tkinter GUI)
 
