@@ -3,7 +3,7 @@
 title: My Awesome Site
 description: A personal site hosted on GitHub Pages
 
-theme: minima # or any theme you're using
+theme: jekyll-minima # or any theme you're using
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
