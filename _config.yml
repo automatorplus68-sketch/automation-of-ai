@@ -2,8 +2,6 @@
 
 title: My Awesome Site
 description: A personal site hosted on GitHub Pages
-baseurl: "" # leave this empty if your site is at the root
-url: https://automatorplus68-sketch.github.io/
 
 theme: minima # or any theme you're using
 plugins:
