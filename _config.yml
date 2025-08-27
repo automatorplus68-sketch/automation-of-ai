@@ -2,7 +2,7 @@
 
 title: My Awesome Site
 description: A personal site hosted on GitHub Pages
-url: "https://automatorplus68-sketch.github.io/automation-of-ai" # your repository’s GitHub Pages URL
+url: "https://automatorplus68-sketch.github.io/automation-of-ai/" # your repository’s GitHub Pages URL
 
 theme: minima # or any theme you're using
 plugins:
