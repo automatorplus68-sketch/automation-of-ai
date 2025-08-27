@@ -2,8 +2,9 @@
 
 title: My Awesome Site
 description: A personal site hosted on GitHub Pages
+url: "https://automatorplus68-sketch.github.io/automation-of-ai" # your repository’s GitHub Pages URL
 
-theme: jekyll-minima # or any theme you're using
+theme: minima # or any theme you're using
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -14,6 +15,8 @@ github_repo: https://github.com/automatorplus68-sketch/automation-of-ai
 # Optional extras
 markdown: kramdown
 highlighter: rouge
-
+author: automatorplus68-sketch
+github:
+  username: automatorplus68-sketch
 
 
